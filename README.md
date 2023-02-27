@@ -9,3 +9,5 @@
 
 ### 27-02-2023
 - Les fichiers texte en lecture
+- Créer un programme qui affiche le contenu d'un fichier texte
+- Chaîner les commandes
