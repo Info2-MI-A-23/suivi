@@ -3,5 +3,9 @@
 
 # Suivi de cours
 
-### jj-mm-2023
+### 20-02-2023
 - Introduction
+- Structutre
+
+### 27-02-2023
+- Les fichiers texte en lecture
