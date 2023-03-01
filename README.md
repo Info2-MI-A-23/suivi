@@ -11,3 +11,7 @@
 - Les fichiers texte en lecture
 - Créer un programme qui affiche le contenu d'un fichier texte
 - Chaîner les commandes
+
+### 03-03-2023
+- Les fichiers texte en écriture
+- Lecture d'un fichier CSV
