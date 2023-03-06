@@ -15,3 +15,6 @@
 ### 03-03-2023
 - Les fichiers texte en écriture
 - Lecture d'un fichier CSV
+
+### 06-03-2023
+- exercice ajouter une saisie de mesure dans un fichier CSV
