@@ -18,3 +18,6 @@
 
 ### 06-03-2023
 - exercice ajouter une saisie de mesure dans un fichier CSV
+
+### 13-03-2023
+- fichiers binaires
