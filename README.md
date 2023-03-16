@@ -21,3 +21,7 @@
 
 ### 13-03-2023
 - fichiers binaires
+
+### 17-03-2023
+- fichiers binaires
+- début des pointeurs
