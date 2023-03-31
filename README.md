@@ -28,3 +28,8 @@
 
 ### 20-03-2023
 - pointeurs
+
+### 31-03-2023
+- validation des pointeurs
+- allocation dynamique
+- Vecteur
