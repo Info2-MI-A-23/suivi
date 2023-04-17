@@ -33,3 +33,8 @@
 - validation des pointeurs
 - allocation dynamique
 - Vecteur
+
+### 17-04-2023
+- Allocation dynamique
+- Vecteur
+- TDA
