@@ -38,3 +38,6 @@
 - Allocation dynamique
 - Vecteur
 - TDA
+
+### 01-05-2023
+- Exercice structure dans fichier
