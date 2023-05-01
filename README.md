@@ -5,7 +5,7 @@
 
 ### 20-02-2023
 - Introduction
-- Structutre
+- Structure
 
 ### 27-02-2023
 - Les fichiers texte en lecture
