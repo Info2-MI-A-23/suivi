@@ -41,3 +41,6 @@
 
 ### 01-05-2023
 - Exercice structure dans fichier
+
+### 05-05-2023
+- Exercice TDA vecteur et tableau dynamique
