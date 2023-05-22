@@ -44,3 +44,7 @@
 
 ### 05-05-2023
 - Exercice TDA vecteur et tableau dynamique
+
+### 22-05-2023
+- enum
+- liste chaînée
